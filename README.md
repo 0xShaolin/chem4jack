@@ -6,7 +6,9 @@ Anyways if this helps you, it helps you.
 
 ------------------------
 
-Literally only needs python2, so go install it. Also works cross 
-platform.
+Literally only needs python2, so go install it. Also works cross platform.
+Oh, and this took 30 minutes.
+
+-----------------------
 
 Love, Shaolin
